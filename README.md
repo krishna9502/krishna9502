@@ -11,6 +11,6 @@
  * convnet.py implements the forward and back propagation for a single image and contains sections of code that took most time to run, which can be optimized further.
 
 
-![image](https://drive.google.com/file/d/18zPOqXqhyDngZMfkO-KDqvkxvXeeh4ZF/view)
+![image](https://s17.postimg.cc/oajzydrz3/Architecture.jpg)
 
  * Code resources used for this project are from  [the link](https://github.com/zishansami102/CNN-from-Scratch)
